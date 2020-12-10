@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596939940664",
+    "project_id": "lottorandom",
+    "storage_bucket": "lottorandom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596939940664:android:91dde5a4bc2f0b47da17cd",
+        "android_client_info": {
+          "package_name": "com.juhyeon.lottorandom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596939940664-lej86pamrcadto6gafqoguo6fgo2f01c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juhyeon.lottorandom",
+            "certificate_hash": "4410970da908c617ceb4bdddbf4aa0d1b4a318c1"
+          }
+        },
+        {
+          "client_id": "596939940664-ggqid88b5seqo9g7ebf98gaatf00eqbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_VfhXzTqYmrRhBLd4879tW4Y6Bgsees"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596939940664-ggqid88b5seqo9g7ebf98gaatf00eqbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
