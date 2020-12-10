@@ -63,4 +63,8 @@ class MainActivity : AppCompatActivity() {
         textView.setText(numberText)
         textView.background = color
     }
+
+    fun test(){
+        Log.d("test", "test")
+    }
 }
